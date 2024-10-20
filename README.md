@@ -16,7 +16,7 @@ This visit was an enriching experience, giving me a first-hand look at how power
 
 ---
 ### Conference Room at SLDC:
-![Conference Room](./images/conference-room.jpg)
+![Conference Room](https://github.com/TusharD18/INDUSTRIAL-VISIT-SLDC-/blob/main/CONFER.jpg)
 ### Key Learnings:
 
 #### 1. **Power Scheduling & Load Management:**
